@@ -20,7 +20,7 @@ Complete **Adventure Logs** which can be accessed in the **Menu** under **Advent
 4. Complete Deves 1AP https://grumpygreen.cricket/bdo-deve-encyclopedia-adventure-log-bookshelf/
 5. Complete Dorin 1AP 1DP https://grumpygreen.cricket/dorin-morgrim/
 6. Complete Fughar 1AP 1DP https://grumpygreen.cricket/fughar-log/
-7. Complete Eyes of Adventure 1DP
+7. Complete Eyes of Adventure 1DP https://grumpygreen.cricket/dokkebi-chests-vol-5-chap-1/
 8. Complete Barrier 1AP 1DP https://grumpygreen.cricket/elvia-kzarka/
 
 ## PEN Kutum
