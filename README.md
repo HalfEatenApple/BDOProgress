@@ -49,9 +49,9 @@ Refer to full DP guide online.
 **ONLY do with PEN Boss Armour** Start enhancing **PEN Griffon Helmet** to Caphras 10m It will roughly take **7400 caphras stones** which is around **14 billion silver**, then upgrade to **Lebreska Helmet**: https://www.blackdesertfoundry.com/labreska-helmet-guide/.
 **Repeat** with each PEN armour (this will be **long term**, even I haven't done this)
 Guides:
-https://www.blackdesertfoundry.com/fallen-god-armor-guide/
-https://www.blackdesertfoundry.com/ators-shoes-guide/
-https://www.blackdesertfoundry.com/dahns-gloves/
+1. https://www.blackdesertfoundry.com/fallen-god-armor-guide/
+2. https://www.blackdesertfoundry.com/ators-shoes-guide/
+3. https://www.blackdesertfoundry.com/dahns-gloves/
 
 ## PEN Weapons
 
